@@ -1,0 +1,14 @@
+body {
+	background-color:#121212;
+	color:white;
+	font-family:Arial;
+}
+.users {
+  background-color:#3b3b3b;
+  border-radius:10px;
+  width:25%;
+}
+.user {
+	background-color:#2e2e2e;
+	border-radius:10px;
+}
