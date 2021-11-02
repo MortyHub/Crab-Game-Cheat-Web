@@ -6,9 +6,27 @@ body {
 .users {
   background-color:#3b3b3b;
   border-radius:10px;
-  width:25%;
+  width:100%;
 }
 .user {
 	background-color:#2e2e2e;
 	border-radius:10px;
+}
+.Read-section {
+	background-color:#3b3b3b;
+	width:75%;
+	border-radius:10px;
+	float: right;
+}
+.Selection-tab {
+	background-color:#2e2e2e;
+	border-radius:10px;
+	width:25%;
+	float:left;
+}
+.selector {
+	color:white;
+}
+.selector:hover {
+	color:gray;
 }
